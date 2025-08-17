@@ -75,3 +75,15 @@
 |                             | Solo los usuarios con rol de guía pueden subir, modificar o eliminar mapas interpretativos. |
 |                             | Los visitantes solo podrán visualizar el mapa, no gestionarlo. |
 
+
+
+| Criterio     | Revisión                                                                                                                                                                                                 |
+|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Independiente | No depende directamente de otras (por ejemplo, puede existir aunque aún no estén las funciones de comentarios o de videos). Sin embargo, se relaciona con la gestión de blogs, ya que el mapa debe estar vinculado a una entrada de blog. |
+| Negociable    | El alcance es flexible: se puede acordar si el mapa será interactivo (zoom, mover) o si inicialmente solo será una imagen estática. También se puede negociar si los visitantes podrán descargar el mapa. |
+| Valiosa       | Aporta un valor directo tanto al guía (que puede enriquecer sus publicaciones) como a los visitantes (que entienden mejor el territorio y se orientan en el recorrido).                                |
+| Estimable     | Es posible estimar el esfuerzo en función de tareas claras                                                                                                                                             |
+| Pequeña       | Se centra en una única funcionalidad concreta (subida y gestión de mapas), que puede completarse dentro de un sprint sin dividirla aún más.                                                             |
+| Testeable     | Los criterios de aceptación permiten verificar fácilmente. El guía puede subir un mapa. El visitante lo ve en la entrada.                                                                              |
+
+
