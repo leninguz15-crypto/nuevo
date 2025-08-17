@@ -20,7 +20,6 @@
 
 | Elemento              | Descripción |
 |------------------------|-------------|
-| **Código**             | HUG - 02 |
 | **Responder preguntas** | Como guía quiero poder responder preguntas dentro del blog para comunicarme de manera clara y rápida con otros usuarios. |
 | **Criterios de aceptación** | |
 |                        | La interfaz del blog debe mostrar las preguntas hechas por los usuarios. |
@@ -43,7 +42,6 @@
 
 | Elemento              | Descripción |
 |------------------------|-------------|
-| **Código**             | HUG - 03 |
 | **Crear blog**         | Yo como guía quiero poder crear blogs para documentar, organizar y compartir las experiencias o actividades con los usuarios, añadiendo entradas, modificando información y publicando el contenido cuando esté listo. |
 | **Criterios de aceptación** | |
 |                        | Debe existir una sección con el título **“Crear blog”** que muestre tres botones: Publicar, Nueva entrada y Modificar información. |
@@ -65,7 +63,6 @@
 
 | Elemento                     | Descripción |
 |-----------------------------|-------------|
-| **Código**                  | HUG - 04 |
 | **Subir mapas interpretativos** | Yo como guía quiero poder subir mapas interpretativos a los blogs, para complementar la información de las publicaciones con recursos visuales que ayuden a los visitantes a orientarse y entender mejor el recorrido. |
 | **Criterios de aceptación** | |
 |                             | El sistema debe permitir al guía seleccionar un archivo de imagen (ej. PNG, JPG) desde su dispositivo y subirlo al blog. |
